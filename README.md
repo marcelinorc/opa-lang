@@ -21,7 +21,7 @@ Certainly sound like a lot of gibberish, but have you forget how the code looked
 
 ###The tool
 
-**OPA-Lang** is a tool to find abbreviation that can be used by programmers all over the world to dictate code. The tool takes three inputs to  generate a set of abbreviations that can be used to dictate a programming language using an speech recognition engine:
+**OPA-Lang** is a tool to find abbreviation that can be used by programmers all over the world to dictate code to an speech recognition engine. The tool takes three inputs to  generate the set of abbreviations:
 
 - The syntax and semantics of a programing language.
 - A confusion matrix describing the likelihood that a phoneme is confused by other.
